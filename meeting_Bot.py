@@ -81,3 +81,4 @@ Produce a concise summary of the meeting, focusing *only* on:
 # Footer
 st.write("---")
 st.write("Powered by OCI Generative AI and Streamlit")
+st.write("Author - Deepesh mittal")
